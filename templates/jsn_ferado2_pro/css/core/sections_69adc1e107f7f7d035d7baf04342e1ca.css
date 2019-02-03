@@ -14,9 +14,6 @@
 #sunfw_section_content-bottom {
   background-color: #fff;
 }
-#sunfw_section_bottom {
-  background-color: #f45245;
-}
 #sunfw_section_footer {
   background-color: #202020;
   color: #5f728a;
@@ -96,14 +93,6 @@
 }
 #sunfw_section_topbar a:hover {
   color: #f45245;
-}
-#sunfw_section_content-bottom-over {
-  background-color: #e54e42;
-  background-image: url("../../../../images/joomlashine/placeholder/bg_blogpost.jpg");
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
 }
 #sunfw_section_footer-newsletter {
   background-color: #313131;
